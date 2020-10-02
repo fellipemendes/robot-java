@@ -1,5 +1,5 @@
 ***Settings***
-Documentation       Estrutura base do projeto de teste Acescend Web-Test
+Documentation       Estrutura base do projeto de teste
 
 Library     SeleniumLibrary
 
