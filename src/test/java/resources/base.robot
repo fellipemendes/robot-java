@@ -9,7 +9,7 @@ Resource    elements.robot
 
 
 ***Variables***
-${base_url}     https://experian-sandbox-web-sandbox-dev.f-internal.br.appcanvas.net/
+${base_url}     https://localhost
 
 ${BROWSER}                  chrome
 ${ALIAS}                    None

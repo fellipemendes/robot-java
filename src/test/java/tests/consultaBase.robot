@@ -3,7 +3,7 @@ Documentation   Suite de consulta de base
 
 Resource        ../resources/base.robot
 
-Test Setup      Login Session  fellipe.mendes@dextra-sw.com     Fel8030#
+Test Setup      Login Session  email@email.com     123
 Test Teardown   Close Session
 
 ***Test Cases***
