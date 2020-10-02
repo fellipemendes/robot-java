@@ -33,5 +33,7 @@ Vá para o Github do SeleniumLibrary Robot Framework + Java para encontrar a [do
 ```shell script
 robot -d ./logs src/test/java/tests/
 ```
+Obs.: chromedriver será procurado a partir variável de ambiente PATH
+
 Após a execução do teste, será gerado um reporte em html. O caminho é indicado no console.
  - robot-java/logs/report.html
